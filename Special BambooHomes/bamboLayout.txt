@@ -1,0 +1,9 @@
+BHomes1      in SEAsia
+BHomes2      Flores
+BHomes3      puzzle
+BMyanmar     Myanmar
+BBagan       Bagan
+BFloresAg    Flores Again
+BPhilippine  Philippines
+BPanelCons   Panel Construction
+Build.Bambo  Buildings

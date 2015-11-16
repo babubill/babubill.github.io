@@ -1,0 +1,77 @@
+This file is Code2006.txt
+    000   Index		index
+  100   Thailand		
+101 Another Bangkok Start
+(102)
+(103)
+
+  200   Myanmar		
+201 - Keng Tung
+202 - Keng Tung Morning Market
+203 - Keng Tung Main Market
+204 - Minority Tribe Trekking 1
+(205 - Minority Tribe Trekking 2)
+
+  300 Malaysia	
+(301)
+(302)
+
+309 Lambir Hills NP
+310 Marudi
+(311 Sibu)
+(320)
+
+  400   Brunei
+401 - Brunei Holiday
+
+  500   Philippines		
+501 - Manila
+502 - Cebu
+(503 - Bohol)
+(504 - Negros)
+(505 - )
+
+  600   Indonesia
+(600 Sulawesi - Pantoloan/Palu)
+(601 Sulawesi -  Doda)
+(602 Sulawesi -  Wuasa to Poso)
+(603 Sulawesi -  Ampana)
+(604 Sulawesi -  Togeans)
+(605 Sulawesi -  Tentena)
+(606 Sulawesi -  Rantepao)
+(607 Sulawesi -  Makassar)
+(608 Sulawesi -  Bira)
+(609 Flores - Maumere)
+610 Flores - Waiterang, Sunset Huts
+611 Flores - Larantuka
+612 Solor - Lahayong, Rita Ebang, Menanga. Stayed w/ driver's sister.
+613 Adonara - Waiwerang, Lamanele, Pantai Paser Mehra
+614 Lembata - Lewoleba stay at Lile Ile
+615 Lembata - Wairiang
+616 Lembata - Wairiang festival
+617 Alor - Wairiang to Kalabahi
+618 Timor Barat - Kupang
+(619 Timor Barat - Atambua)
+(621 Bali - Ubud)
+(622 Pelni to Labuan Bajo)
+623 Flores - Ojek to Ruteng
+(624 Flores - Ende)
+(625 Flores - Bajawa)
+(626 Flores - Labuan Bajo)
+(627 Bus to Bali)
+(628 Salamat Jalan/Salamat Tingal)
+
+  700   Timor Leste	
+701 January Travel Plan
+(702 Timore Leste Debacle)
+
+  800   LAOS
+801 Houei Sai
+(802 Luang Nam Tha)
+
+  900   Singapore
+901 Singapore Day Trip
+
+	map		MapPage
+
+about 35 more pages!!!!
