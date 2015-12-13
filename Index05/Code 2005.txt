@@ -1,0 +1,59 @@
+This file is Code2005.txt
+000   Index05		   
+"z" means written		z
+
+  100	China	
+101 Xaimen			 not
+102 Guanjou			 not
+103 Guilin			 not
+104 Yangshou			 not
+105 Nanning			 not
+106 Kunming			 not
+107 Dali			Nov 5
+108 Jinghong			 not
+    Menghun
+109 China Exit 1 (Mengla)	Nov 15
+110 China Exit 2		Nov 16
+
+  200	LAOS	
+201 Luang Nam Tha (Lao Entry)	Nov 23
+202 Nong Khiaw (More Laos )	Nov 23
+203 Luang Prabang		 not
+204 Plain of Jars		Nov 25
+    Vientiane
+205 4000 islands		Nov 28
+
+  300 	Thailand 
+301 Thailand Entry from Laos	Nov 29
+310 Myanmar Visa Take 1 	Dec 06
+311 Myanmar Visa Take 2		Dec 07
+312 Lazy Bangkok		Dec 10
+320 GoodBadGood News (changes)	Jan 17
+330 N Thailand (Mae Sai)	Mar 29
+331 Chiang Rai			templet
+
+  400 	Cambodia	
+401 Khao Phra Wihaan		Nov 30
+
+  500 	Myanmar	
+501 Yangoon			 not
+502 Mandalay			Dec 19
+503 Mandalay B			 not
+504 Mt. Popa			 not
+505 Bagan			 not
+506 Yangoon2			 not
+507 BagoKyaiktiyo		 not
+
+  600 	Malaysia 
+601 Where Backpackers From?	No Date
+602 Pulau Pangkor (Lumut)	Feb 28
+    Melaka
+    Kuala Lumpur
+    Kuantan
+603 Pulau Perhentian Besar	Mar 03
+    Kota Baharu
+
+	map	MapPage2005	z
+
+17 more to write, MINIMUM!
+

@@ -1,0 +1,24 @@
+Hi,
+
+When sending files to overseas volunteers is a very good idea to split files up as attachments in several emails, as connection speed requires many attempts to download mail. It is common to take 5 to 10 tries to see a g-mail account. Some days no success is achieved. My on-line routine is to open many tabs at once, (anti-virus, Juno, G-mail, Aljazeera news), then help others in the lab, returning to the desk occasionally to check progress. If lucky (also depends on how many students need help), I will have a chance to get through the list before lunch -- 5 hours later. Afternoons are generally impossible to get on-line. 
+
+The anti-virus software I like best is Avast v.4.8. The Avast! anti-virus update file is huge and growing -- now at 35 MB. In the morning it can take 1 to 3 hours to download. (The longer it takes, the more prone to errors -- meaning the file is no good and the download must be started again.)  Attempting an afternoon download is futile -- would take 12 - 14 hours -- long after the computers are shut down for the day. But virus infections are a way of life in Tanzania, so keeping the lab protected is a major concern. 
+
+I recently traveled to Bihawana village in the Dodoma Region (almost due West from me). They have an all-male boarding school that was originally started by a mission, but is now government run. (Another
+volunteer is at an all-female boarding school, with similar curriculum, in the same region.)  Took existing, non-working desktop computers, worked them until I had three additional systems to join
+the two in existence. Major problems were:
+1. Bent pins on several connectors (HDD, monitor, and mouse),
+2. Improper jumper settings on installed hard drives,
+3. Some drives had been wiped clean, so staff assumed damaged,
+4. Attempting to use SCSI drives on ATA equipment,
+5. Heavy Virus infection.
+
+Then I taught four or five 2-hour classes introducing computers, ending with students opening and closing programs, and saving and opening NotePad. My students had all just finished the Form VI exam
+(ending their secondary education), and are highly motivated. This was an optional class in their free time.  None of them had touched a computer before! As is typical in Tanzania, two or three students sitting at each computer. The expression on student faces when they "get it" is priceless.
+
+It's now 18 months since I left Los Angeles for Philly & Tanzania. Time flies when your having fun!  This is also when future plans are made, as my service ends at the end of November +/- one month.  If I decide NOT to extend, I might link up with someone wanting to tour in Egypt, but several folks have had everything stolen. I will have to weigh the risks. 
+
+Medical concerns:  
+1.  My clavicle seems to have healed nicely, with no known mobility limit. Next week I get to try my very heavy pack on again! 
+2.  I've had a growth between my left side burn and ear for 10 months or so that won't heal. [This turned out to be Basal cell carcinoma]
+
