@@ -1,0 +1,16 @@
+  file			Country		Dates		subject
+index15.html
+2015_101.html		Thailand	Oct 16 -	entry
+2015_102.html		Thailand	Oct 16 -	Loi Krathong
+
+2015_201.html		Malaysia	Nov 16 -	Street Art
+2015_202.html		Malaysia	Nov 16 -	More Street Art
+
+2015_301.html		Indonesia	Nov 27 -
+2015_302.html		W. Papua	Nov 28 -
+2015_302.html		Makasar		Dec 07 -
+2015_302.html		Bali		Dec 10 -
+
+2015_401.html		Singapore	Dec 16 -
+
+MapPage2015.html
