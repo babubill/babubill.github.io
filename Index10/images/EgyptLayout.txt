@@ -1,0 +1,24 @@
+Cairo     101
+  Mosques and Minarets of Cairo      102
+  Giza                         11/7  103
+  Saqqara, Dahshur Pyramids:   11/7  104
+  Mit Rahina Museum, Memphis   11/7      105
+
+  Luxor:  Luxor Temple        11/17	 201
+	  Habu,               11/18      202
+       Al-Deir-Bahari Temples 11/18      202
+         Valley of Kings,     11/18      202
+          Karnak, 	      11/19	 203
+                            
+     Eastern Desert/Red Sea   		 301
+       (Marsa Alam)  Colors and shapes  11/14  302
+
+     Aswan & Nile        401
+   Philae, Agilkia Is.   402
+  Elephantinels          403
+  Abu Simbel             404
+  West Bank              405
+
+===================================
+
+idea: add guide to index page to tell reader how to jump to specific area of Egypt. Like a mini-map. Should they be called 'Regions'?
